@@ -38,11 +38,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1686277352,
-        "narHash": "sha256-quryYLnntwZZrwJ4Vsx24hiCkwiYZAEttiOu983akGg=",
+        "lastModified": 1686582075,
+        "narHash": "sha256-vtflsfKkHtF8IduxDNtbme4cojiqvlvjp5QNYhvoHXc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "a9fa8f8450a2ae296f152a9b3d52df68d24b7cfc",
+        "rev": "7e63eed145566cca98158613f3700515b4009ce3",
         "type": "github"
       },
       "original": {
@@ -92,11 +92,11 @@
         "nixpkgs": "nixpkgs_3"
       },
       "locked": {
-        "lastModified": 1686277999,
-        "narHash": "sha256-Lko8PiXN8ecQSlFsn/7V5fyoUtb1H5zyMpe73hLmSis=",
+        "lastModified": 1686623191,
+        "narHash": "sha256-x2gQcKtSgfbZlcTaVvdMPbrXMRjUEYIV88yzsFww6D4=",
         "owner": "oxalica",
         "repo": "rust-overlay",
-        "rev": "f46177d472fc5b754fd5ad382ae8a31a10979750",
+        "rev": "e279547de84413ca1a65cec3f0f879709c8c65eb",
         "type": "github"
       },
       "original": {
@@ -116,14 +116,17 @@
         "stm32CubeF4": "stm32CubeF4"
       },
       "locked": {
-        "lastModified": 1686255555,
-        "narHash": "sha256-v+mmcqUtiF/NwxxxW4h1o84m/cBhTKsMKMwMG4vZwLs=",
-        "type": "git",
-        "url": "file:///home/shved/Projects/mk/stm32/nix-stm32"
+        "lastModified": 1686467948,
+        "narHash": "sha256-OWwWYz5o5lzPF/T9XC0+poYHFY0isg/QomKJHdbeGEE=",
+        "owner": "ein-shved",
+        "repo": "nix-stm32",
+        "rev": "f6ea54b618a16639f9b2206c1b115278e90c161a",
+        "type": "github"
       },
       "original": {
-        "type": "git",
-        "url": "file:///home/shved/Projects/mk/stm32/nix-stm32"
+        "owner": "ein-shved",
+        "repo": "nix-stm32",
+        "type": "github"
       }
     },
     "stm32CubeF1": {
